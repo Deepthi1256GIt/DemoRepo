@@ -7,6 +7,7 @@ public class LoginTest {
 	@Test
 	public void demoTest(){
 		System.out.println("Demo Test");
+		System.out.println("Changing data");
 		
 	}
 	
