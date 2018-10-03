@@ -8,6 +8,7 @@ public class LoginTest {
 	public void demoTest(){
 		System.out.println("Demo Test");
 		System.out.println("Changing data");
+		System.out.println("Editing in GIT");
 		
 	}
 	
